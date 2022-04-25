@@ -1,14 +1,16 @@
 # **Takım İsmi**
 
-Takım X
+Team73
 
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
+- Şevval Nalbantoğlu: Product Owner
+- Fatma Feyza Nur Satılmış: Scrum Master
+- Nesim Şişik: Developer
+- Baran Sönmez: Developer
+- Mertcan Engin: Developer
 
 ## Ürün İsmi
 
